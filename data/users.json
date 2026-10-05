@@ -1,0 +1,34 @@
+[
+  {
+    "id": "usr_induja_default",
+    "username": "induja",
+    "email": "induja2103@gmail.com",
+    "name": "Induja S",
+    "passwordHash": "9c4880da87d5fb213057b74ffcbaf24439f00b1dad466611063cf0668af4bd23",
+    "createdAt": "2026-10-04T09:50:22.106Z"
+  },
+  {
+    "id": "usr_1791107761814_as2k",
+    "username": "Indu",
+    "email": "indu@gmail.com",
+    "name": "Indu",
+    "passwordHash": "60e7866e2ef01585bd3442fffde8256e58e0e4f3c282098b9d8a2b6b33b62e9b",
+    "createdAt": "2026-10-04T09:56:01.896Z"
+  },
+  {
+    "id": "usr_1791108477928_lzbj",
+    "username": "alex_tester",
+    "email": "alex@test.com",
+    "name": "Alex Johnson",
+    "passwordHash": "e73c54aebe25fbc4e0ca45ac933867066e2412dc49bf88f1a95e87abc154ddeb",
+    "createdAt": "2026-10-04T10:07:57.984Z"
+  },
+  {
+    "id": "usr_1791108708261_9mg2",
+    "username": "renish",
+    "email": "renish@gmail.com",
+    "name": "renish",
+    "passwordHash": "ee67daf8c1264e2ef7fe9d73fdee68391bb2aa053e4d0b593d88990a4ee4c598",
+    "createdAt": "2026-10-04T10:11:48.324Z"
+  }
+]

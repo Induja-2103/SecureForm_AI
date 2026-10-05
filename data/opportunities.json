@@ -1,0 +1,436 @@
+[
+  {
+    "opportunity_id": "opp_743ee4bb",
+    "title": "Temproary",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using Gemini AI."
+    },
+    "questions": [
+      "Email",
+      "Name",
+      "Phone no"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "complete"
+  },
+  {
+    "opportunity_id": "opp_c5c5f293",
+    "title": "Extracted Application Form",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [
+        "JavaScript",
+        "Java"
+      ],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "Email",
+      "Name",
+      "Phone no"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_402f76ab",
+    "title": "Extracted Application Form",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [
+        "JavaScript",
+        "Java"
+      ],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "Email",
+      "Name",
+      "Phone no"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_366ff773",
+    "title": "Extracted Application Form",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [
+        "JavaScript",
+        "Java"
+      ],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "Email",
+      "Name",
+      "Phone no"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_a0fc6a1b",
+    "title": "Extracted Application Form",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [
+        "JavaScript",
+        "Java"
+      ],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "Email",
+      "Name",
+      "Phone no"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_995616f4",
+    "title": "Hiring now: new opportunities at Qualcomm and othe",
+    "org": "example.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "First Name",
+      "Last Name",
+      "Email",
+      "Resume URL"
+    ],
+    "deadline": null,
+    "apply_url": "https://example.com/mock-application",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_7b72a1cc",
+    "title": "Python/Django Developer at ARDENS BUSINESS SOLUTIO",
+    "org": "example.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "First Name",
+      "Last Name",
+      "Email",
+      "Resume URL"
+    ],
+    "deadline": null,
+    "apply_url": "https://example.com/mock-application",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_9779c6c3",
+    "title": "Python/Django Developer at ARDENS BUSINESS SOLUTIO",
+    "org": "example.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "First Name",
+      "Last Name",
+      "Email",
+      "Resume URL"
+    ],
+    "deadline": null,
+    "apply_url": "https://example.com/mock-application",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_32384ba4",
+    "title": "Temproary",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "First Name",
+      "Last Name",
+      "Email",
+      "Resume URL"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_69c3c88c",
+    "title": "Temproary",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "questions": [
+      "First Name",
+      "Last Name",
+      "Email",
+      "Resume URL"
+    ],
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_464eb787",
+    "title": "Temproary",
+    "org": "docs.google.com",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUap0DYvAAI2cmiI3ECa7_kfcoZvI118zvmr_xZoESwEt2UQ/viewform?usp=publish-editor",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_2fdddbe9",
+    "title": "Flexilant Works - Full Stack Developer Application",
+    "org": "forms.gle",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://forms.gle/qrWPx7v9h53sszte9",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_3103cdd8",
+    "title": "Flexilant Works - Full Stack Developer Application",
+    "org": "forms.gle",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://forms.gle/qrWPx7v9h53sszte9",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_cff82413",
+    "title": "Flexilant Works - Full Stack Developer Application",
+    "org": "forms.gle",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://forms.gle/qrWPx7v9h53sszte9",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_000ebec8",
+    "title": "Flexilant Works - Full Stack Developer Application",
+    "org": "forms.gle",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://forms.gle/qrWPx7v9h53sszte9",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_dcc1480b",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_dd67aafc",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_b68089fc",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_4bf90ebf",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_4c4bc3d9",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_dfe4de97",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_55c9bc82",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_ab0eebc1",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_7c4f9950",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_c8df4973",
+    "title": "Sign Up | LinkedIn",
+    "org": "lnkd.in",
+    "type": "job",
+    "requirements": {
+      "min_cgpa": 0,
+      "required_skills": [],
+      "eligibility_text": "Extracted from page content using heuristic matching."
+    },
+    "deadline": null,
+    "apply_url": "https://lnkd.in/p/g8KWGTxP",
+    "data_quality": "incomplete"
+  },
+  {
+    "opportunity_id": "opp_frontend_001",
+    "title": "Frontend Engineering Intern",
+    "org": "Innovate LLC",
+    "type": "internship",
+    "requirements": {
+      "min_cgpa": 3.5,
+      "required_skills": [
+        "React",
+        "JavaScript"
+      ],
+      "eligibility_text": "Must be currently enrolled in a BS program with a minimum 3.5 CGPA and experience in React."
+    },
+    "deadline": "2026-10-01T23:59:59Z",
+    "apply_url": "https://innovate-llc.example.com/careers/apply",
+    "data_quality": "complete"
+  }
+]

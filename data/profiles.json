@@ -1,0 +1,148 @@
+{
+  "induja2103@gmail.com": {
+    "user_id": "usr_induja_default",
+    "first_name": "induja",
+    "last_name": "",
+    "email": "induja2103@gmail.com",
+    "education": [
+      {
+        "degree": "B.E. Computer Science",
+        "institution": "Dr NGP INSTITUTE OF TECHNOLOGY",
+        "cgpa": 8.5,
+        "year": 2027
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Python",
+      "Machine Learning"
+    ],
+    "certifications": [
+      "AWS Certified Developer"
+    ],
+    "experience": [
+      {
+        "role": "Software Engineering Intern",
+        "org": "Startup Inc",
+        "duration": "Summer 2024",
+        "description": "Developed features using React and Node.js."
+      }
+    ],
+    "documents": {
+      "resume_url": "INDUJA_Resume FS.pdf",
+      "transcript_url": "https://example.com/transcript.pdf"
+    },
+    "preferences": {
+      "opportunity_types": [
+        "internship",
+        "job"
+      ],
+      "locations": [
+        "Remote",
+        "New York",
+        "San Francisco"
+      ],
+      "min_stipend": 5000
+    },
+    "phone_number": "8248807407",
+    "extra_details": [
+      {
+        "id": "extra_1790962870501_tdpa",
+        "key": "Name",
+        "value": "induja"
+      },
+      {
+        "id": "extra_1791019167832_xhgl",
+        "key": "Phone no",
+        "value": "8248807407"
+      }
+    ]
+  },
+  "alex@test.com": {
+    "user_id": "usr_1791108478125_cvko3",
+    "first_name": "alex",
+    "last_name": "",
+    "email": "alex@test.com",
+    "phone_number": "",
+    "extra_details": [],
+    "education": [],
+    "skills": [],
+    "certifications": [],
+    "experience": [],
+    "documents": {
+      "resume_url": "",
+      "transcript_url": ""
+    },
+    "preferences": {
+      "opportunity_types": [
+        "internship",
+        "job"
+      ],
+      "locations": [
+        "Remote"
+      ],
+      "min_stipend": 0
+    }
+  },
+  "indu@gmail.com": {
+    "user_id": "usr_1791108677561_09nxr",
+    "first_name": "indu",
+    "last_name": "",
+    "email": "indu@gmail.com",
+    "phone_number": "",
+    "extra_details": [],
+    "education": [],
+    "skills": [],
+    "certifications": [],
+    "experience": [],
+    "documents": {
+      "resume_url": "",
+      "transcript_url": ""
+    },
+    "preferences": {
+      "opportunity_types": [
+        "internship",
+        "job"
+      ],
+      "locations": [
+        "Remote"
+      ],
+      "min_stipend": 0
+    }
+  },
+  "renish@gmail.com": {
+    "user_id": "usr_1791108709872_6nwvr",
+    "first_name": "renish",
+    "last_name": "",
+    "email": "renish@gmail.com",
+    "phone_number": "9994196997",
+    "extra_details": [
+      {
+        "id": "extra_1791108812387_igyc",
+        "key": "Name",
+        "value": "renish"
+      }
+    ],
+    "education": [],
+    "skills": [],
+    "certifications": [],
+    "experience": [],
+    "documents": {
+      "resume_url": "Induja AIML  (2026).pdf",
+      "transcript_url": ""
+    },
+    "preferences": {
+      "opportunity_types": [
+        "internship",
+        "job"
+      ],
+      "locations": [
+        "Remote"
+      ],
+      "min_stipend": 0
+    }
+  }
+}
